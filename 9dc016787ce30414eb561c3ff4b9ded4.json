@@ -7,7 +7,7 @@
     "admob_interid": "ca-app-pub-3940256099942544/1033173712",
     "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
     "admob_openid": "ca-app-pub-3940256099942544/1033173712",
-    "interval_intertitial": "5",
+    "interval_intertitial": "1",
     "startappid": "201669628",
     "fan_inter": "612492376332507_612493222999089",
     "fan_banner_native": "612492376332507_612492762999135",
@@ -42,18 +42,34 @@
     {
       "id": 1,
       "name_category": "Easy",
-      "title": "Turnamen Indoesports League Mobile MON",
-      "image": "https://cdn0-production-images-kly.akamaized.net/HkEDZzR6N-0KxCRWMOC-ss8IlQk=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2115193/original/037405100_1524529114-Mobile-Legends-Tips.jpg",
-      "description": "Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile.",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide_1.html"
+      "title": "Tips 1",
+      "image": "https://1.bp.blogspot.com/-mqZdDXcn1hU/X_iH-rNtzNI/AAAAAAAAKeY/5ZnyxbA81H8X6uJs6ApMlF8EUqlfR-FRQCLcBGAsYHQ/s16000/gar.png",
+      "description": "The principle of the game is ...",
+      "link": "<p>The principle of the game is the same as that of the Arabic telephone : the first player proposes a sentence, then the second player must draw to try to make the next player guess this sentence. Then the fourth player has to draw again to guess the sentence that the third player understood, and so on . At the end of the game, the players compare the last guessed sentence to the starting sentence , which should be as close as possible. In fact, the more players there are, the less similar the sentences will be!</p>"
     },
     {
       "id": 2,
       "name_category": "Easy",
-      "title": "Trik Tersembunyi Lord Mobile MON",
-      "image": "https://media.suara.com/pictures/480x260/2020/06/26/57007-logo-mobile-legends-youtube-mobile-legends-bang-bang.jpg",
-      "description": "Ini contoh description guide/tutorial ka dua pada json online,dengan data html dan gambar diambil dari folder assets aplikasi",
-      "link": "<p>Indoesports League Mobile menggelar turnamen game PUBG Mobile, Indoesports League Mobile x Game.ly PUBG Mobile. Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile.</p>\r\n\r\n<p>Seperti diketahui, Indonesia tengah menjadi sorotan di kalangan PUBGM Global lewat prestasi yang baru-baru ini diraih sebagai Juara Dunia PUBG Mobile. Kemenangan dicapai oleh Bigetron RA yang digawangi oleh Luxxy, Zuxxy, Ryzen dan Microboy.</p>\r\n\r\n<p><img alt=\"\" src=\"https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg\" style=\"height:360px; width:640px\" /></p>\r\n\r\n<p>Kesuksesan 4 anak muda ini tentunya tak diraih secara instan. Ratusan bahkan ribuan pertandingan telah mereka tempuh sejak berkarir sebagai pro-player di dunia PUBG Mobile.</p>\r\n\r\n<p>Berkali-kali mengikuti pertandingan mulai dari skala kecil, menengah, nasional hingga internasional serta bertemu dengan player-player terbaik dari berbagai penjuru dunia.</p>\r\n\r\n<p>Berikut ini jadwal turnamen Indoesports League Mobile x Game.ly PUBG Mobile.</p>\r\n\r\n<p>Open Registration : 16 Januari 2020 &ndash; 26 Januari 2020</p>\r\n\r\n<p>Technical Meeting : 27 Januari 2020</p>\r\n\r\n<p>Babak Match : 28 &ndash; 30 Januari 2020</p>\r\n\r\n<p>Grand Final : 31 Januari 2020</p>\r\n\r\n<p>Tempat : Online di seluruh Indonesia</p>\r\n\r\n<p>Update berita dan informasi turnamen, serta halaman untuk mendaftar dapat diakses di website dan Instagram Indoesports.</p>\r\n"
+      "title": "Tips 2",
+      "image": "https://1.bp.blogspot.com/-mqZdDXcn1hU/X_iH-rNtzNI/AAAAAAAAKeY/5ZnyxbA81H8X6uJs6ApMlF8EUqlfR-FRQCLcBGAsYHQ/s16000/gar.png",
+      "description": "Free play mode is the default mode, ...",
+      "link": "<p>Free play mode is the default mode, while easy play mode allows you to take your time since the timer won't start until the majority of players have finished drawing.</p>"
+    },
+    {
+      "id": 3,
+      "name_category": "Easy",
+      "title": "Tips 3",
+      "image": "https://1.bp.blogspot.com/-mqZdDXcn1hU/X_iH-rNtzNI/AAAAAAAAKeY/5ZnyxbA81H8X6uJs6ApMlF8EUqlfR-FRQCLcBGAsYHQ/s16000/gar.png",
+      "description": "If you don't have enough players to start a game, you can ...",
+      "link": "<p>If you don't have enough players to start a game, you can count on the game's official Discord , being careful to choose the French language when joining the server.</p>"
+    },
+    {
+      "id": 4,
+      "name_category": "Easy",
+      "title": "Tips 4",
+      "image": "https://1.bp.blogspot.com/-mqZdDXcn1hU/X_iH-rNtzNI/AAAAAAAAKeY/5ZnyxbA81H8X6uJs6ApMlF8EUqlfR-FRQCLcBGAsYHQ/s16000/gar.png",
+      "description": "Follow these steps ...",
+      "link": "<p>1) Launch the official Gartic Phone website; 2) Choose your username; 3) Then set your living room: choose the game mode ( free game or kick off ), the duration, the maximum number of laps...</p>"
     }
   ]
 }
