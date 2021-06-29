@@ -40,7 +40,7 @@
 
   "Data": [
     {
-      "id": 5,
+      "id": 1,
       "name_category": "Easy",
       "title": "Tips 1",
       "image": "https://gataubingun.github.io/9dc016787ce30414eb561c3ff4b9ded4/04.jpg",
@@ -48,7 +48,7 @@
       "link": "<p>It is important to note that this game must be played with several people, and it is recommended to play it vocally with friends! The rest is simple: each player must either make up a sentence either choose a pre-defined, who goes next be drawn by everyone. The goal is to have the last sentence as close as possible to the last, exactly like an Arabic telephone. The funniest part is, like the original game, discover the final sentence which is nothing like the first.</p>"
     },
     {
-      "id": 4,
+      "id": 2,
       "name_category": "Easy",
       "title": "Tips 2",
       "image": "https://gataubingun.github.io/9dc016787ce30414eb561c3ff4b9ded4/03.jpg",
@@ -64,7 +64,7 @@
       "link": "<p>If you don't have enough players to start a game, you can count on the game's official Discord , being careful to choose the French language when joining the server.</p>"
     },
     {
-      "id": 2,
+      "id": 4,
       "name_category": "Easy",
       "title": "Tips 4",
       "image": "https://gataubingun.github.io/9dc016787ce30414eb561c3ff4b9ded4/01.jpg",
@@ -72,7 +72,7 @@
       "link": "<p>Free play mode is the default mode, while easy play mode allows you to take your time since the timer won't start until the majority of players have finished drawing.</p>"
     },
     {
-      "id": 1,
+      "id": 5,
       "name_category": "Easy",
       "title": "Tips 5",
       "image": "https://gataubingun.github.io/9dc016787ce30414eb561c3ff4b9ded4/00.jpg",
