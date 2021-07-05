@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_ads": "ADMOB",
+      "select_ads": "STARTAPP",
       "select_backup_ads": "FACEBOOK",
       "status_app": "0",
       "link_redirect": "https://",
@@ -46,59 +46,59 @@
     {
       "id":1,
       "name_category": "GS R",
-      "title":"GS 0",
+      "title":"GS 00",
       "image":"https://wallpapercave.com/wp/wp6060532.jpg"
     },
     {
       "id": 2,
       "name_category": "GS C",
-      "title": "GS 1",
+      "title": "GS 01",
       "image": "https://wallpapercave.com/wp/wp5279250.jpg"
     },
     {
       "id":3,
       "name_category": "GS C",
-      "title":"GS 2",
+      "title":"GS 02",
       "image":"https://wallpapercave.com/wp/wp6385812.jpg"
     },{
       "id":4,
       "name_category": "GS C",
-      "title":"GS 3",
+      "title":"GS 03",
       "image":"https://wallpapercave.com/wp/wp6385816.jpg"
     },{
       "id":5,
       "name_category": "GS R",
-      "title":"GS 4",
+      "title":"GS 04",
       "image":"https://wallpapercave.com/wp/wp6385835.jpg"
     },
     {
       "id":6,
       "name_category": "GS C",
-      "title":"GS 5",
+      "title":"GS 05",
       "image":"https://wallpapercave.com/wp/wp3546617.png"
     },
     {
       "id":7,
       "name_category": "GS R",
-      "title":"GS 6",
+      "title":"GS 06",
       "image":"https://wallpapercave.com/wp/wp6385841.jpg"
     },
     {
       "id":8,
       "name_category": "GS R",
-      "title":"GS 7",
+      "title":"GS 07",
       "image":"https://wallpapercave.com/wp/wp4810823.jpg"
     },
     {
       "id":9,
       "name_category": "GS R",
-      "title":"GS 8",
+      "title":"GS 08",
       "image":"https://wallpapercave.com/wp/wp6385868.jpg"
     },
     {
       "id":10,
       "name_category": "GS R",
-      "title":"GS 9",
+      "title":"GS 09",
       "image":"https://wallpapercave.com/wp/wp4486688.png"
     },
     {
