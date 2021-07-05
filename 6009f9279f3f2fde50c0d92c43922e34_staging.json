@@ -1,0 +1,129 @@
+{
+  "Ads": [
+    {
+      "select_ads": "STARTAPP",
+      "select_backup_ads": "FACEBOOK",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
+      "admob_openid": "ca-app-pub-3940256099942544/3419835294",
+      "interval": 1,
+      "startappid": "206091121",
+      "fan_inter": "612492376332507_612493222999089",
+      "fan_banner_native": "612492376332507_612492762999135",
+      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_inter": "24534e1901884e398f1253216226017e",
+      "applovin_banner": "db4d5e8718b97d78",
+      "applovin_inter": "518cd97722c60b52",
+      "packagename": "com.caradaftar.visualskings"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More",
+      "image":"https://wallpapercave.com/wp/wp6385978.jpg",
+      "link":"https://play.google.com/store/apps/developer?id=CARA+DAFTAR"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "GS R",
+      "image": "https://wallpapercave.com/wp/wp6060532.jpg"
+    },{
+      "id": 2,
+      "name_category": "GS C",
+      "image": "https://wallpapercave.com/wp/wp6385978.jpg"
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "GS R",
+      "title":"GS 00",
+      "image":"https://wallpapercave.com/wp/wp6060532.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "GS C",
+      "title": "GS 01",
+      "image": "https://wallpapercave.com/wp/wp5279250.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "GS C",
+      "title":"GS 02",
+      "image":"https://wallpapercave.com/wp/wp6385812.jpg"
+    },{
+      "id":4,
+      "name_category": "GS C",
+      "title":"GS 03",
+      "image":"https://wallpapercave.com/wp/wp6385816.jpg"
+    },{
+      "id":5,
+      "name_category": "GS R",
+      "title":"GS 04",
+      "image":"https://wallpapercave.com/wp/wp6385835.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "GS C",
+      "title":"GS 05",
+      "image":"https://wallpapercave.com/wp/wp3546617.png"
+    },
+    {
+      "id":7,
+      "name_category": "GS R",
+      "title":"GS 06",
+      "image":"https://wallpapercave.com/wp/wp6385841.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "GS R",
+      "title":"GS 07",
+      "image":"https://wallpapercave.com/wp/wp4810823.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "GS R",
+      "title":"GS 08",
+      "image":"https://wallpapercave.com/wp/wp6385868.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "GS R",
+      "title":"GS 09",
+      "image":"https://wallpapercave.com/wp/wp4486688.png"
+    },
+    {
+      "id":11,
+      "name_category": "GS C",
+      "title":"GS 10",
+      "image":"https://wallpapercave.com/wp/wp5164920.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "GS R",
+      "title":"GS 11",
+      "image":"https://wallpapercave.com/wp/wp5375472.png"
+    },
+    {
+      "id":13,
+      "name_category": "GS R",
+      "title":"GS 12",
+      "image":"https://wallpapercave.com/wp/wp6055846.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "GS C",
+      "title":"GS 13",
+      "image":"https://wallpapercave.com/wp/wp6385978.jpg"
+    }
+  ]
+}
