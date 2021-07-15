@@ -32,56 +32,11 @@
          "id":1,
          "name_category":"Sausage",
          "image":"https://gataubingun.github.io/1ff0bd41849df63429e41c530e61bab3/01.jpg"
-      },
-      {
-         "id":2,
-         "name_category":"Garlic",
-         "image":"https://gataubingun.github.io/9dc016787ce30414eb561c3ff4b9ded4/01.png"
       }
    ],
    "Data":[
       {
          "id":1,
-         "name_category":"Garlic",
-         "title":"Tips 5",
-         "image":"https://gataubingun.github.io/9dc016787ce30414eb561c3ff4b9ded4/04.jpg",
-         "description":"It is important to note that this game must be played with ...",
-         "link":"<p>It is important to note that this game must be played with several people, and it is recommended to play it vocally with friends! The rest is simple: each player must either make up a sentence either choose a pre-defined, who goes next be drawn by everyone. The goal is to have the last sentence as close as possible to the last, exactly like an Arabic telephone. The funniest part is, like the original game, discover the final sentence which is nothing like the first.</p>"
-      },
-      {
-         "id":2,
-         "name_category":"Garlic",
-         "title":"Tips 4",
-         "image":"https://gataubingun.github.io/9dc016787ce30414eb561c3ff4b9ded4/03.jpg",
-         "description":"Follow these steps ...",
-         "link":"<p>1) Launch the official Gartic Phone website; 2) Choose your username; 3) Then set your living room: choose the game mode ( free game or kick off ), the duration, the maximum number of laps...</p>"
-      },
-      {
-         "id":3,
-         "name_category":"Garlic",
-         "title":"Tips 3",
-         "image":"https://gataubingun.github.io/9dc016787ce30414eb561c3ff4b9ded4/02.jpg",
-         "description":"If you don't have enough players to start a game, you can ...",
-         "link":"<p>If you don't have enough players to start a game, you can count on the game's official Discord , being careful to choose the French language when joining the server.</p>"
-      },
-      {
-         "id":4,
-         "name_category":"Garlic",
-         "title":"Tips 2",
-         "image":"https://gataubingun.github.io/9dc016787ce30414eb561c3ff4b9ded4/01.jpg",
-         "description":"Free play mode is the default mode, ...",
-         "link":"<p>Free play mode is the default mode, while easy play mode allows you to take your time since the timer won't start until the majority of players have finished drawing.</p>"
-      },
-      {
-         "id":5,
-         "name_category":"Garlic",
-         "title":"Tips 1",
-         "image":"https://gataubingun.github.io/9dc016787ce30414eb561c3ff4b9ded4/00.jpg",
-         "description":"The principle of the game is ...",
-         "link":"<p>The principle of the game is the same as that of the Arabic telephone : the first player proposes a sentence, then the second player must draw to try to make the next player guess this sentence. Then the fourth player has to draw again to guess the sentence that the third player understood, and so on . At the end of the game, the players compare the last guessed sentence to the starting sentence , which should be as close as possible. In fact, the more players there are, the less similar the sentences will be!</p>"
-      },
-      {
-         "id":6,
          "name_category":"Sausage",
          "title":"Tips 5",
          "image":"https://gataubingun.github.io/1ff0bd41849df63429e41c530e61bab3/04.jpg",
@@ -89,7 +44,7 @@
          "link":"<div>If you&rsquo;ve ever played battle royale games like PUBGM or Free Fire, then you won&rsquo;t have any trouble playing the Sausage Man game.<br/><br/></div><div>You will be given a guide the first time you play the game Sausage Man. You can follow the guide properly in order to play this game Sausage Man.<br/><br/></div><div>Same with PUBGM, in this Sausage Man game you will be dropped off the plane. After getting off the plane, therefore you need to find a weapon.<br/><br/></div><div>Use the weapons you get to challenge other players in the game Sausage Man. The last player standing is the winner.</div>"
       },
       {
-         "id":7,
+         "id":2,
          "name_category":"Sausage",
          "title":"Tips 4",
          "image":"https://gataubingun.github.io/1ff0bd41849df63429e41c530e61bab3/03.jpg",
@@ -97,7 +52,7 @@
          "link":"<div>The Sausage Man game has a sausage-like character that makes this game truly unique.<br/><br/></div><div>The cartoon-style graphic idea carried out by the Sausage Man game is quite cool, so it&rsquo;s a shame you missed it.<br/><br/></div><div>Those of you who play PUBG every day should try the impression of playing this Sausage Man game.<br/><br/></div><div>download sausage man battle royale Since the game Sausage Man is still new, so please understand that the features in the Sausage Man game are not about the features in the PUBG game.<br/><br/></div><div>However, this Sausage Man game is still really great to play. This PUBG-like game is suitable for those of you who are trying to get the impression of playing other PUBG games.</div>"
       },
       {
-         "id":8,
+         "id":3,
          "name_category":"Sausage",
          "title":"Tips 3",
          "image":"https://gataubingun.github.io/1ff0bd41849df63429e41c530e61bab3/02.jpg",
@@ -105,7 +60,7 @@
          "link":"<div>You can only download the Sausage Man game application now via TapTap. Unfortunately, Sausage Man is currently only available for Android.<br/><br/></div><div>Those of you who use iOS can be patient until Sausage Man launches the version for iOS.<br/><br/></div><div>Here are the steps on how to download the Sausage Man application:</div><ul><li><div>Make sure you already have the TapTap program, if not then you need to install the TapTap program via the link https://bit.ly/3AfVRym.</div></li><li><div>Open the installed TapTap program, search for &ldquo;Sausage Man&rdquo; in the search field. Then all you have to do is download the Sausage Man game.</div></li><li><div>If you don&rsquo;t find the Sausage Man program, then you can click the link https://www.taptap.io/app/212769.</div></li><li><div>Press the Download button, therefore you will be directed to download Sausage Man through the TapTap program.</div></li></ul>"
       },
       {
-         "id":9,
+         "id":4,
          "name_category":"Sausage",
          "title":"Tips 2",
          "image":"https://gataubingun.github.io/1ff0bd41849df63429e41c530e61bab3/01.jpg",
@@ -113,7 +68,7 @@
          "link":"<ol><li><div>Your device may not meet the minimum or recommended specifications, You must own a high-quality smartphone. Because you're using a low-end device, the game may lag at times. So Here is a Sausage Man minimum or recommended specifications which are as follows:</div><div><strong>Sausage Man Requirements for Android</strong></div><div>Minimum specifications for Android: Android 4.4, RAM</div><div>Recommended specifications for Android: Android 8.0, RAM 4G</div></li><li><div>You can open the [Settings] button in the top right corner of the game lobby [General settings list], then access [Graphics]. Adjust the Resolution to &ldquo;&rdquo;Low&rdquo;&rdquo; and disable &ldquo;&rdquo;high frame rate&rdquo;&rdquo;. This will significantly reduce overheating and lagging. You can check out the best Sausage Man&rsquo;s best Graphics below.</div></li><li><div>Close background apps to free up your device&rsquo;s memory, or restart it. You can also use the in-game Customer Support, or leave a message in TapTap Bug and Suggested Feedback Collection, including your device specifications.&rdquo;<br/><br/></div></li><li><div>Check if your phone has a heating issue. Play in front of a fan to keep your phone cold and prevent it from heating up while you&rsquo;re playing.<br/><br/></div></li><li><div>You&rsquo;ll need a reliable internet connection.<br/><br/></div></li><li><div>You must own a high-quality smartphone. Because you&rsquo;re using a low-end device, the game may lag at times. Make sure no other applications are operating in the background or utilizing data. Close all other apps except Sausage Man if they&rsquo;re running in the background.<br/><br/></div></li><li><div>There will be storage space in the smartphone. Sometimes game lags because its internal memory has no storage space.<br/><br/></div></li><li><div>You can reduce your graphics settings to eliminate lag.</div></li></ol></p>"
       },
       {
-         "id":10,
+         "id":5,
          "name_category":"Sausage",
          "title":"Tips 1",
          "image":"https://gataubingun.github.io/1ff0bd41849df63429e41c530e61bab3/00.jpg",
