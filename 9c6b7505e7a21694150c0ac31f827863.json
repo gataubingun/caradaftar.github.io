@@ -1,0 +1,53 @@
+{
+  "Ads": [
+      {
+      "backup_mode":"1",
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_inter": "ca-app-pub-5347910346556093/1475883919",
+      "admob_native": "ca-app-pub-5347910346556093/5465218827",
+      "startappid": "208315042",
+      "select_ads": "ADMOB",
+      "select_backup_ads":"STARTAPP",
+      "select_ads_inter": "ADMOB",
+      "select_backup_ads_inter":"APPLOVIN",
+      "fan_inter": "",
+      "fan_banner_native": "",
+      "fan_native": "",
+      "packagename": "com.caradaftar.fridayfreakinnightplaythrough",
+      "interval":1
+      }
+   ],
+   "lismenu":[
+      {
+         "menu":"Tutorial and Week 1",
+         "menuurl":"https://archive.org/download/97C405009759538A391CEC7155C8901A/97C405009759538A391CEC7155C8901A_week1.mp4",
+         "desc":"If tutorial won't play\nThen tap black screen and play button on bottom 1"
+      },
+      {
+         "menu":"Week 2",
+         "menuurl":"https://archive.org/download/97C405009759538A391CEC7155C8901A/97C405009759538A391CEC7155C8901A_week2.mp4",
+         "desc":"If tutorial won't play\nThen tap black screen and play button on bottom 2"
+      },
+      {
+         "menu":"Week 3",
+         "menuurl":"https://archive.org/download/97C405009759538A391CEC7155C8901A/97C405009759538A391CEC7155C8901A_week3.mp4",
+         "desc":"If tutorial won't play\nThen tap black screen and play button on bottom 3"
+      },
+      {
+         "menu":"Week 4",
+         "menuurl":"https://archive.org/download/97C405009759538A391CEC7155C8901A/97C405009759538A391CEC7155C8901A_week4.mp4",
+         "desc":"If tutorial won't play\nThen tap black screen and play button on bottom 4"
+      },
+      {
+         "menu":"Week 5",
+         "menuurl":"https://archive.org/download/97C405009759538A391CEC7155C8901A/97C405009759538A391CEC7155C8901A_week5.mp4",
+         "desc":"If tutorial won't play\nThen tap black screen and play button on bottom 5"
+      },
+      {
+         "menu":"Week 6",
+         "menuurl":"https://archive.org/download/97C405009759538A391CEC7155C8901A/97C405009759538A391CEC7155C8901A_week6.mp4",
+         "desc":"If tutorial won't play\nThen tap black screen and play button on bottom 6"
+      }
+   ]
+}
